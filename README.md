@@ -1,4 +1,4 @@
-# SAT-Attack
+# SAT-Attack by Durgesh R Sardan
 
 
 Implemented the SAT-attack methodology to compromise Logic Encryption techniques like Random Logic Locking (RLL), characterized by various key sizes of 32, 64, and 128 bits for Logic Encryption. Applied the SAT-attack approach to decrypt RLL-encrypted ISCAS’89 and ITC’99 benchmark circuits in order to ascertain the correct encryption key. Analyzed the time required and the number of iterations taken to successfully break the Logic Encryption.
